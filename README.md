@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Godfrey Osagiede.
-- 👀 I’m interested in alot of stuff when it comes to coding but my main focus is UX/UI.
-- 🌱 I’m currently enrolled as a third year at Texas Tech University studying Computer Science.
-- 💞️ I’m looking to collaborate on nothing yet as i'm still figuring myself out but if you need me or believe i could be of help dont hesistae to contact.
+- 👀 I’m interested in alot of stuff when it comes to coding but my main focus is Software Engineering, Web Development and Cloud Engineering .
+- 🌱 I’m currently enrolled as a fourth year at Texas Tech University studying Computer Science.
+- 💞️ If you need me or believe i could be of help dont hesistae to contact.
 - 📫 How to reach me contact me at 469-660-7278 or email me at godfreystorm@gmail.com.
 
 <!---
