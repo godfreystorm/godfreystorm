@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Godfrey Osagiede.
-- 👀 I’m interested in alot of stuff when it comes to coding but my main focus is Software Engineering and Web Development.
-- 🌱 I’m currently enrolled as a fifth+ year at Texas Tech University studying Computer Science.
+- 👀 I’m mialy focused on Software Engineering and Full-stack Web Development.
+- 🌱 I’m currently enrolled as a senior at Texas Tech University studying Computer Science.
 - 💞️ If you need me or believe i could be of help dont hesistae to contact.
 - 📫 How to reach me contact me at 469-660-7278 or email me at godfreystorm@gmail.com.
 
