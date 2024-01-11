@@ -1,5 +1,5 @@
 ## 👋 Hello World, I'm Ikponmwosa “Godfrey” Osagiede!
-As a senior Computer Science major at Texas Tech University, I'm enthusiastically diving into the realms of software engineering, web development, and game development. With my graduation on the horizon in Spring 2024, I'm eagerly looking forward to applying my skills and knowledge in challenging and innovative projects.
+As a senior Computer Science major at Texas Tech University with a minor in mathematics, I'm enthusiastically diving into the realms of software engineering, web development, and game development. With my graduation on the horizon in Spring 2024, I'm eagerly looking forward to applying my skills and knowledge in challenging and innovative projects.
 
 ## 🌟 What I'm All About:
 Innovative Problem-Solving: I thrive on tackling complex problems and turning them into simple, elegant software solutions.
