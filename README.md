@@ -1,8 +1,5 @@
-- 👋 Hi, My name is Godfrey Osagiede.
-- 👀 I like Software Engineering and Full-stack Web Development.
-- 👾 I'm currently only coding in JavaScript and Python.
-- 🌱 I’m currently enrolled as a senior at Texas Tech University studying Computer Science.
-- 💞️ If you need me or believe i could be of help dont hesistae to contact.
+- 👋 Hi, My name is Godfrey Osagiede, I'm a senior at Texas Tech University.
+- 🎓 I Study Computer Science with a minor in Mathmatics.
 - 📫 How to reach me contact me at 469-660-7278 or email me at godfreystorm@gmail.com.
 
 <!---
